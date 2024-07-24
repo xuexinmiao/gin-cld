@@ -1,0 +1,4 @@
+{"level":"ERROR","time":"2024-07-24T22:27:41.281+0800","caller":"gowork/main.go:33","msg":"mysql init failed","error":"dial tcp 172.16.234.109:3306: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"level":"INFO","time":"2024-07-24T22:27:41.302+0800","caller":"gowork/main.go:44","msg":"start server"}
+{"level":"INFO","time":"2024-07-24T22:28:10.856+0800","caller":"gowork/main.go:60","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-07-24T22:28:10.858+0800","caller":"gowork/main.go:66","msg":"Server exiting"}
